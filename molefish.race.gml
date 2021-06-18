@@ -24,6 +24,7 @@ while(true){
 
 
 #define create
+bwep = wep_screwdriver;
 // player instance creation of this race
 // https://bitbucket.org/YellowAfterlife/nuclearthronetogether/wiki/Scripting/Objects/Player
 
